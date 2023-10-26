@@ -27,8 +27,8 @@ PyGObject==3.42.1
 PyJWT==2.3.0
 pyparsing==2.4.7
 pytz==2023.3.post1
-PyYAML==5.34.1
-reqests==2.31.0
+PyYAML
+requests==2.31.0
 SecretStorage==3.3.1
 six==1.16.0
 sqlparse==0.4.4
